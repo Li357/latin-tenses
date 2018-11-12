@@ -302,7 +302,7 @@ const tenses = [
         ],
       ],
       [
-        ['audi|am', 'audi|ēs', 'audi|ēt', 'audi|ēmus', 'audi|ētis', 'audi|ēnt'],
+        ['audīv|ī', 'audīv|istī', 'audīv|it', 'audīv|imus', 'audīv|istis', 'audīv|ērunt'],
         [
           'I was hearing',
           'you were hearing',
@@ -399,12 +399,12 @@ const tenses = [
       ],
       [
         [
-          'audi|eram',
-          'audi|erās',
-          'audi|erat',
-          'audi|erāmus',
-          'audi|erātis',
-          'audi|erant',
+          'audiv|eram',
+          'audiv|erās',
+          'audiv|erat',
+          'audiv|erāmus',
+          'audiv|erātis',
+          'audiv|erant',
         ],
         [
           'I had heard',
@@ -502,12 +502,12 @@ const tenses = [
       ],
       [
         [
-          'audi|erō',
-          'audi|eris',
-          'audi|erit',
-          'audi|erimus',
-          'audi|eritis',
-          'audi|erint',
+          'audiv|erō',
+          'audiv|eris',
+          'audiv|erit',
+          'audiv|erimus',
+          'audiv|eritis',
+          'audiv|erint',
         ],
         [
           'I will have heard',
